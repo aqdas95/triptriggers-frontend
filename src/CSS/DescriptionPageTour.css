@@ -1,0 +1,65 @@
+.main-description-div {
+  /* outline: 1px solid black; */
+  width: 50%;
+  float: left;
+  margin-top: 120px;
+  height: 100%;
+}
+.description-page-button-css {
+  text-decoration: none;
+}
+.second-div-parallel {
+  /* outline: 1px solid black; */
+  float: right;
+  width: 40%;
+  margin-top: 120px;
+  height: 100%;
+}
+.second-div-parallel1 {
+  /* outline: 1px solid black; */
+  float: right;
+  width: 40%;
+  margin-top: 120px;
+  height: 100%;
+}
+.footer-inner {
+  margin-top: 300px;
+}
+
+.second-div {
+  /* outline: 1px solid black; */
+  margin-top: 550px;
+  width: 50%;
+  height: 100%;
+}
+
+.description-div1 {
+  /* outline: 1px solid black; */
+  width: 50%;
+  margin-top: 50px;
+  height: 300px;
+}
+
+.inner-image1 {
+  /* background-image: url("https://www.w3schools.com/css/img_5terre.jpg");
+    outline: 1px solid black; */
+  height: 400px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.heading1 {
+  margin-top: 50px;
+}
+
+.price-heading-div {
+  margin-left: 20px;
+}
+
+.comment {
+  width: 40%;
+  height: 100px;
+  padding: 10px;
+  background-color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}

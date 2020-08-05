@@ -1,0 +1,119 @@
+
+.navbar-main-div{
+
+    display: block;
+    
+  }
+  
+  .heading{
+  font-style:normal;
+  margin-left:0px;
+  width: 100%;
+  font-family: 'Montserrat';
+  font-size: 32px;
+  text-shadow: 4px 4px 4px #aaa;
+  
+  }
+  .logo{
+  
+  width: 200px;
+  
+  }
+  .button-login{
+    margin-left: 320px;
+  }
+  
+  .cover{
+    display: block;
+    background-color: #00B4CC;
+    height: 10px;
+  }
+  
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create three equal columns that floats next to each other */
+  .column-navbar-vendor {
+    /* outline: 1px solid black; */
+    float: left;
+    width: 50%;
+   
+   
+  
+  
+  }
+  
+  
+  /* Clear floats after the columns */
+  .row-navbar-vendor:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  @media screen and (max-width: 480px) {
+    .column-navbar-vendor {
+      width: 100%;
+    }
+  }
+
+
+  /* Search Bar */
+  
+  
+ 
+  
+  
+  
+  /* Vendor CSS */
+  
+  .dropbtn {
+    background-color: blue;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-left: 200px;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    margin-left: 300px;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    z-index: 1;
+    margin-left: 170px;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color:lightblue;
+  }
+  
+  
+  @media screen and (min-width: 300px) {
+    body {
+      width: 100%;
+    }
+  }

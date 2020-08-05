@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
+.h1-vendorLogin{
+
+    font-family: 'Tangerine', serif;    
+}
+
+.main{
+    /* background-color: lightgrey; */
+    height:640px;
+    background-image: url("https://image.shutterstock.com/z/stock-photo-tourist-planning-vacation-with-the-help-of-world-map-with-other-travel-accessories-around-young-580146556.jpg");
+    /* background-color: darkslategrey; */
+}
+
+ 
+.login-box-login
+{
+    position: relative;
+    margin: 5% auto;
+    height: 400px;
+    width: 600px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+
+
+.left-box-login
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 400px;    
+}
+
+
+.right-box-login
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 400px;
+  background-image: url("https://image.shutterstock.com/image-photo/items-accessories-traveler-on-old-600w-1446008975.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+@media screen and (max-width: 1200px) {
+    .right-box-login {
+      max-width: 100%;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+/* New */
+

@@ -1,0 +1,60 @@
+
+
+/* .pic{
+height: 200px;
+  background-image: url("https://images.pexels.com/photos/2526431/pexels-photo-2526431.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+} */
+.main-landing{
+  width:100%;
+  height: 100%;
+}
+
+
+.div-data{
+
+  /* outline:1px solid black; */
+  margin-left:40px;
+  width:95%;
+  margin-top: 40px;
+  height: 100%;
+}
+
+.fresh-recommendation{
+  /* outline:1px solid black; */
+margin-left: 15px;
+font-style: oblique;
+
+
+}
+
+
+
+
+.navbar{
+
+  width:100%;
+}
+
+
+.link-load-more{
+text-align:center;
+margin-top:20px;  
+margin-right:120px; 
+
+font-style: oblique;
+
+}
+
+
+.landing-main-div{
+
+width:100%;
+height: 100%;
+}
+.content-div-landing{
+
+  float: right;
+  
+}
+
+

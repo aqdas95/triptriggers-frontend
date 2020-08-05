@@ -1,0 +1,32 @@
+.main-div{
+
+    outline:3px solid black;
+width: 90%;
+height: 200px;
+}
+
+.image-div{
+    background-image: url("https://www.w3schools.com/css/img_5terre.jpg");
+/* outline:1px solid black; */
+width:20%;
+margin-left: 20px;
+height: 200px;
+
+}
+
+.description{
+
+    /* outline:1px solid black; */
+    width:70%;
+    float: right;
+    height: 200px;
+}
+.heading-div-description{
+
+    margin-left:10px;
+
+}
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
